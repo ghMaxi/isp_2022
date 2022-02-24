@@ -8,5 +8,5 @@
 Семинар 1: (запросы преподавателя) https://docs.google.com/document/d/1aZpgoBbT-HEHC2kjHLQQFU9ztIa_XuPnxkaLWrbLXQI
 Семинар 2: (презентация-предложение) https://github.com/ghMaxi/isp_2022/raw/master/Example_Proposal.pptx
 Семинар 3: (работа с ТЭО) https://docs.google.com/document/d/1PDGLF27Zjj30IzLtb6BKyVXVk8hGV0OdtE4PSMKGmT8/edit?usp=sharing
-    Примеры ТЭО - https://github.com/ghMaxi/isp_2022/tree/master/materials/s4
+    Примеры ТЭО - https://github.com/ghMaxi/isp_2022/tree/master/materials/s3
     Обзор стандартов для ТЗ - https://habr.com/ru/post/328822/
