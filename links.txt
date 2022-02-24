@@ -1,6 +1,9 @@
 Учебник (e.muiv): https://lanbook.muiv.ru/muivreader/book/100391
 
-Лекция 1: https://docs.google.com/document/d/14shIBpD6vRpEo86q7iWlFp359PC3XLc86n3jkacD-YI
-Лекция 2: https://docs.google.com/document/d/10VocE5B0q1Dc1U6Mw7X6EOdUv4cqeljC6a2YKsEPlF4
+Лекция 1 (Предметная область): https://docs.google.com/document/d/14shIBpD6vRpEo86q7iWlFp359PC3XLc86n3jkacD-YI
+Лекция 2 (Жизненный цикл): https://docs.google.com/document/d/10VocE5B0q1Dc1U6Mw7X6EOdUv4cqeljC6a2YKsEPlF4
+Лекция 3 (Стадии проектирования): https://docs.google.com/document/d/1Z36qfYnS-8K1mHnGE2gSnYERarKwD3igIy0a2evfYDE
+Лекция 4 (Стадия обследования и ТЭО): https://docs.google.com/document/d/1jtBd3tm2bHa-Lwqj5AySYV0__6W4kWFeirSx6Ybq1XU
 
-Семинар 1: https://docs.google.com/document/d/1aZpgoBbT-HEHC2kjHLQQFU9ztIa_XuPnxkaLWrbLXQI
+Семинар 1: (запросы преподавателя) https://docs.google.com/document/d/1aZpgoBbT-HEHC2kjHLQQFU9ztIa_XuPnxkaLWrbLXQI
+Семинар 2: (презентация-предложение) https://github.com/ghMaxi/isp_2022/raw/master/Example_Proposal.pptx
