@@ -9,7 +9,7 @@
 Лекция 7 (Технические задания): n/a
 Лекция 8 (Функциональное описание системы): n/a
 Лекция 9 (Технологические процессы обработки данных): https://docs.google.com/document/d/1cXiytLNwswgyOPd-2TifWwauwqcRqJww4w9SEaJmXi0
-Лекция 10 (Методы проектирования и программирования ИС): n/a
+Лекция 10 (Методы проектирования и программирования ИС): https://docs.google.com/document/d/1m9_PCO9c-eo8TsQuZ8dWWj_FW_-F8nhIqUyuKzVYl8A
 
 Семинар 1: (запросы преподавателя) https://docs.google.com/document/d/1aZpgoBbT-HEHC2kjHLQQFU9ztIa_XuPnxkaLWrbLXQI
 Семинар 2: (презентация-предложение) https://github.com/ghMaxi/isp_2022/raw/master/Example_Proposal.pptx
