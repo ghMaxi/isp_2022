@@ -6,6 +6,10 @@
 Лекция 4 (Стадия обследования и ТЭО): https://docs.google.com/document/d/1jtBd3tm2bHa-Lwqj5AySYV0__6W4kWFeirSx6Ybq1XU
 Лекция 5 (Миссия, процессы, функции): https://docs.google.com/document/d/1cO1UPia1oaFEH2DpsPfqjaqhWdVq1ySxvyY8OCtWHls
 Лекция 6 (Информационное обеспечение ИС): https://docs.google.com/document/d/198MM-vrtmll6h5q72Pfe_JGzpHKdovAlhZhKE8j1vd0
+Лекция 7 (Технические задания): n/a
+Лекция 8 (Функциональное описание системы): n/a
+Лекция 9 (Технологические процессы обработки данных): https://docs.google.com/document/d/1cXiytLNwswgyOPd-2TifWwauwqcRqJww4w9SEaJmXi0
+Лекция 10 (Методы проектирования и программирования ИС): n/a
 
 Семинар 1: (запросы преподавателя) https://docs.google.com/document/d/1aZpgoBbT-HEHC2kjHLQQFU9ztIa_XuPnxkaLWrbLXQI
 Семинар 2: (презентация-предложение) https://github.com/ghMaxi/isp_2022/raw/master/Example_Proposal.pptx
